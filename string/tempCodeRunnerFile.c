@@ -1,0 +1,1 @@
+ char spt[] = puts(spt);
